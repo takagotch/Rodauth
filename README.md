@@ -7,8 +7,6 @@ https://github.com/nordic-institute/X-Road
 ```
 ```
 
-```ruby
-```
 
 ```
 ```
